@@ -22,6 +22,10 @@ public class Noticia implements Serializable {
 
 
 
+
+        
+
+
     }
 
     public String getTituloNoticia() {
