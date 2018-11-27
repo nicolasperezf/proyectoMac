@@ -19,7 +19,7 @@ public class Noticia implements Serializable {
         this.opinionNoticia = opinionNoticia;
         this.imagenAvatar = imagenAvatar;
         this.imagenNoticia = imagenNoticia;
-        
+
 
     }
 
